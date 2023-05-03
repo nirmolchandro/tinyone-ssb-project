@@ -1,0 +1,19 @@
+.header{
+    background-color: #FCDB00;
+}
+.navbar-brand{
+    font-size: 30px;
+    font-weight: 600;
+    color: black;
+}
+.navbar-brand .logo{
+    margin-right: 10px;
+}
+.nav-link{
+    font-size: 25px;
+    color: #000;
+    margin-left: 15px;
+}
+.nav-link:hover{
+    color: #fff!important;
+}
